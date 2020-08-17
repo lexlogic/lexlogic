@@ -1,12 +1,26 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+## Hi 👋 I am Pratik! 
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
-My name is Nicholas Knight and I'm a freelance information security professional. I'm from the United States, living in Lexington, KY and currently working at Amteck LLC. You can find me on [![LinkedIn][3.2]][3].
+- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
+- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 😊 Willing to contribute in opensource development projects.
+- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
+- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
 
-## &#x270d; Blog & Writing
+<details open>
+<summary>🤝 <b>To connect with me<b></summary>
 
-I also maintain a blog - you can find my articles on my website at [logicsec.github.io](https://logicsec.github.io/).
+<p align = "center">
+
+[<img src ="https://img.shields.io/badge/blog-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://logicsec.github.io/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1/pr2tik1)
+![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
+
+</p>
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
