@@ -1,13 +1,12 @@
-## Hi 👋 I am Pratik! 
+## Hi 👋 I am Nick! 
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+I am a security engineer who is passionate about stuff like web technologies and network penetration testing. Few tech that I enjoy working in are Python, Java, Ruby, and PHP. Recently, I have just started doing writeups for Hack the Box! I also moderate the Discord for the Hack the Box Team.
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
-- 🤝 Open for collaborations in deep learning, analytics and data science.
+- 👨🏽‍💻 Currently working, learning and growing my skillset in IoT devices.
+- 🤝 Open for collaborations in information security.
 - 😊 Willing to contribute in opensource development projects.
-- 👍 Looking for opportunities to join as an intern/full time in deep learning fields.
-- 👨 Know more about me at [Sourcerer](https://sourcerer.io/pr2tik1) 
-- 🌐 Visit my [porfolio website](https://pr2tik1.github.io/) for complete background and contact.
+- 👨 Know more about me at [Sourcerer](https://sourcerer.io/logicsec) 
+- 🌐 Visit my [porfolio website](https://logicsec.github.io/) for complete background and contact.
 
 <details open>
 <summary>🤝 <b>To connect with me<b></summary>
@@ -15,10 +14,9 @@ I am a developer who is passionate about stuff like deep learning and data scien
 <p align = "center">
 
 [<img src ="https://img.shields.io/badge/blog-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://logicsec.github.io/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pratik-kumar04/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/pratikkumar04/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/pr2tik1/pr2tik1)
-![Repos Badge](https://badges.pufler.dev/repos/pr2tik1?style=for-the-badge&color=red)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholipknight/)
+[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/logicsec/logicsec)
+![Repos Badge](https://badges.pufler.dev/repos/logicsec?style=for-the-badge&color=red)
 
 </p>
 
