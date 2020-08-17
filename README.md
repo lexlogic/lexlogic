@@ -15,7 +15,7 @@ I am a security engineer who is passionate about stuff like web technologies and
 
 [<img src ="https://img.shields.io/badge/blog-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://logicsec.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/nicholipknight/)
-[![Visits Badge](https://badges.pufler.dev/visits/pr2tik1/pr2tik1?style=for-the-badge&color=blue)](https://github.com/logicsec/logicsec)
+[![Visits Badge](https://badges.pufler.dev/visits/logicsec/logicsec?style=for-the-badge&color=blue)](https://github.com/logicsec/logicsec)
 ![Repos Badge](https://badges.pufler.dev/repos/logicsec?style=for-the-badge&color=red)
 
 </p>
